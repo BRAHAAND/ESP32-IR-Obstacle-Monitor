@@ -88,7 +88,8 @@ flowchart LR
 
 Many FC-51 modules are printed **OUT, GND, VCC**. Wire by the labels printed on your module, not by position.
 
-![Circuit schematic](images/schematic.svg)
+<img width="2048" height="1440" alt="image" src="https://github.com/user-attachments/assets/2da084ae-b526-458c-a7fc-db66fd34b8ca" />
+
 
 ## Quick start
 
