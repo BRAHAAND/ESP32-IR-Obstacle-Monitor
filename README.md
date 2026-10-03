@@ -1,5 +1,4 @@
 # ESP32-IR-Obstacle-Monitor
-# ESP32 IR Obstacle Monitor
 
 **A self-hosted, real-time web dashboard for an infrared obstacle sensor, running entirely on an ESP32 with no cloud, no apps and no external libraries.**
 
