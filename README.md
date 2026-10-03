@@ -8,13 +8,13 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align=center>
-    <img width="50%" height="967" alt="Screenshot 2026-10-03 162744" src="https://github.com/user-attachments/assets/897464d8-86e8-4adb-aa0b-b1a4b62aee33" />
-    <img width="50%" height="972" alt="Screenshot 2026-10-03 162756" src="https://github.com/user-attachments/assets/afa384f1-280d-402d-a390-8c678cd9d052" />
+    <img width="45%" height="967" alt="Screenshot 2026-10-03 162744" src="https://github.com/user-attachments/assets/897464d8-86e8-4adb-aa0b-b1a4b62aee33" />
+    <img width="45%" height="972" alt="Screenshot 2026-10-03 162756" src="https://github.com/user-attachments/assets/afa384f1-280d-402d-a390-8c678cd9d052" />
 </p>
 
 <p align=center>
-<img width="50%" height="955" alt="Screenshot 2026-10-03 162805" src="https://github.com/user-attachments/assets/a2752f48-5a47-48b1-93aa-14a1119a4b36" />
-<img width="50%" height="957" alt="Screenshot 2026-10-03 162953" src="https://github.com/user-attachments/assets/c487457b-cdb4-421b-842f-98a5aa467c87" />
+<img width="45%" height="955" alt="Screenshot 2026-10-03 162805" src="https://github.com/user-attachments/assets/a2752f48-5a47-48b1-93aa-14a1119a4b36" />
+<img width="45%" height="957" alt="Screenshot 2026-10-03 162953" src="https://github.com/user-attachments/assets/c487457b-cdb4-421b-842f-98a5aa467c87" />
 </p>
 
 
