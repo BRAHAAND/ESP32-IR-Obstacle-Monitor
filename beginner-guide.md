@@ -67,7 +67,8 @@ Turn the ESP32 off (unplug USB) before wiring.
 | GND | GND |
 | OUT | **GPIO21** (labelled D21) |
 
-![Circuit schematic](../images/schematic.svg)
+<img width="2048" height="1440" alt="image" src="https://github.com/user-attachments/assets/b50da16e-83d3-4fdd-b1d1-d6c9b83b34c9" />
+
 
 Important points:
 
