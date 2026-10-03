@@ -7,7 +7,8 @@
 ![Language](https://img.shields.io/badge/language-C%2B%2B-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-![Dashboard screenshot](images/dashboard.png)
+<img width="1917" height="967" alt="Screenshot 2026-10-03 162744" src="https://github.com/user-attachments/assets/897464d8-86e8-4adb-aa0b-b1a4b62aee33" />
+
 
 ## Overview
 
