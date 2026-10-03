@@ -222,7 +222,7 @@ Embedded C++ on ESP32, GPIO and digital sensor interfacing, signal debouncing, n
 
 ## License
 
-Released under the MIT License. Add a `LICENSE` file to the repository root to apply it.
+Released under the MIT License.
 
 ## Author
 
